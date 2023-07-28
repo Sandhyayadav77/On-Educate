@@ -1,0 +1,12 @@
+[
+    { "BookName": "SCIENCE(6)", "id": 1 },
+    { "BookName": "COMPUTER(6)", "id": 2 },
+    { "BookName": "ENGLISH(6)", "id": 3 },
+    { "BookName": "VYAKARN(6)", "id": 4 },
+    { "BookName": "SST(6)", "id": 5 },
+    { "BookName": "GK(6)", "id": 6 },
+    { "BookName": "HINDI(6)", "id": 7 },
+    { "BookName": "GRAMMAR(6)", "id": 8 },
+    { "BookName": "MATHS(6)", "id": 9 }
+  ]
+  
